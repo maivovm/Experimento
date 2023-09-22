@@ -1,2 +1,3 @@
 # Experimento
-ejercico de prueba
+ejercicio de prueba
+segunda clase de github
